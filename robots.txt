@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Disallow: /_quellen/
+
+Sitemap: https://www.gartenservice-jaszewski.de/sitemap.xml
